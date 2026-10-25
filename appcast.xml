@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FilmTrace</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Sun, 25 Oct 2026 12:04:04 +1100</pubDate>
+            <link>https://github.com/james1239090/FilmTrace-Downloads/releases/tag/v0.2.0</link>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/james1239090/FilmTrace-Downloads/releases/download/v0.2.0/FilmTrace-0.2.0-universal.zip" length="10568070" type="application/octet-stream" sparkle:edSignature="nwiopkxmmrDy/BYTH9fl6u7JLF22oQClhkvIHufgvrRJuAsbYImY2h+UScd3ELu/h50kKlSS1Yaar9XpGsI3CA=="/>
+        </item>
+    </channel>
+</rss>
