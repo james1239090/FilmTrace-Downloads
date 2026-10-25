@@ -3,6 +3,15 @@
     <channel>
         <title>FilmTrace</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Sun, 25 Oct 2026 18:38:05 +1100</pubDate>
+            <link>https://github.com/james1239090/FilmTrace-Downloads/releases/tag/v0.2.2</link>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/james1239090/FilmTrace-Downloads/releases/download/v0.2.2/FilmTrace-0.2.2-universal.zip" length="10945779" type="application/octet-stream" sparkle:edSignature="9BEheU+F3HppbKEr3PEv8VzA8yAdeppeo6m4jcawWUlkqisUZNb7EKouMmAhAvxKQjqJgYubLmpVeISd2gdhDQ==" />
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Sun, 25 Oct 2026 12:07:39 +1100</pubDate>
             <link>https://github.com/james1239090/FilmTrace-Downloads/releases/tag/v0.2.1</link>

@@ -2,7 +2,7 @@
 
 macOS 選單列原始拍攝設定檢視器，支援 Fujifilm、Canon、Nikon、Panasonic、Sony。
 
-[下載 FilmTrace 0.2.1 預覽版](https://github.com/james1239090/FilmTrace-Downloads/releases/tag/v0.2.1)
+[下載 FilmTrace 0.2.2 預覽版](https://github.com/james1239090/FilmTrace-Downloads/releases/tag/v0.2.2)
 
 macOS 13 或以上，Intel / Apple Silicon 通用。開啟 DMG 後將 FilmTrace.app 拖入 Applications。
 
